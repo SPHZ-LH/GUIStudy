@@ -14,9 +14,9 @@ class frame extends Frame {
         setVisible(true);
     }
 
-    @Override
-    public void paint(Graphics g) {
-        g.setColor(Color.red);
-        g.fillOval(100, 100, 100, 100);
-    }
+//    @Override
+//    public void paint(Graphics g) {
+//        g.setColor(Color.red);
+//        g.fillOval(100, 100, 100, 100);
+//    }
 }
